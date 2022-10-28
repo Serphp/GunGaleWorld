@@ -1,0 +1,6 @@
+Info_Inside - Arara = false
+Info_Inside - Racao = false
+Info_Inside - Grande = 0
+Aleister_Crowley - Arara = false
+Aleister_Crowley - Racao = false
+Aleister_Crowley - Grande = 0

@@ -1,0 +1,116 @@
+*----* Pasivo *----*  GetPlayerOrg == 32  GetPlayerOrg == 9
+CMD:entrevista
+CMD:noticias
+CMD:prevertemp
+CMD:g
+CMD:preporter
+CMD:encamara
+CMD:tenvivo
+CMD:transmitir
+CMD:audiencia
+CMD:patrocinadores
+
+*-----* Clanwar *-----*  GetPlayerOrg == 35
+CMD:ppass
+CMD:mpass
+CMD:pcamaras
+CMD:r
+CMD:dpass
+CMD:tr
+CMD:g
+CMD:secuestrar
+CMD:tojos
+CMD:amarrar
+CMD:rliberar
+CMD:desamarrar
+CMD:bq
+CMD:rbq
+
+ *------*  Sons Of anarchy *----* GetPlayerOrg == 25
+CMD:g
+CMD:equipar
+CMD:secuestrar
+CMD:tojos
+CMD:amarrar
+CMD:rliberar
+CMD:bq
+CMD:rbq
+CMD:psons
+
+
+*----* Bomberos *----* GetPlayerOrg == 20
+CMD:fad 
+CMD:r
+CMD:d
+CMD:aceptar bombero
+CMD:lincendio
+CMD:auto
+CMD:lugar
+CMD:local
+
+*----* Goddess *----* GetPlayerOrg == 24
+CMD:g
+CMD:equipar
+CMD:secuestrar
+CMD:tojos
+CMD:amarrar
+CMD:rliberar
+CMD:bq
+CMD:rbq
+
+*----* MECANICO *----* GetPlayerOrg == 34
+CMD:f
+CMD:reparar
+CMD:llenarauto
+CMD:ganchar
+CMD:respawnmec
+CMD:mision
+CMD:gancharmoto
+CMD:pmec
+CMD:iniciartrabajo
+
+
+*----* Mafia *-----* GetPlayerOrg == 13
+CMD:venderkit
+CMD:g
+CMD:obmateriales
+CMD:gumateriales
+CMD:tr
+CMD:secuestrar
+CMD:tojos
+CMD:amarrar
+CMD:rliberar
+CMD:bq
+CMD:rbq
+CMD:limpiar
+CMD:pbarzini1
+CMD:pbarzini2
+CMD:pbarzini3
+
+*----* Triads *----* GetPlayerOrg == 22
+CMD:laptop
+CMD:derrumbar
+CMD:fan
+CMD:f
+CMD:ptri
+CMD:localizar
+CMD:entriad
+CMD:sentriad
+
+
+*----* UBER *----* GetPlayerOrg == 10   GetPlayerOrg == 30
+CMD:corrida
+CMD:ptaxi
+CMD:f
+
+
+*----* Medicos *----* GetPlayerOrg == 4  GetPlayerOrg == 31
+CMD:r
+CMD:d
+CMD:vida
+CMD:imedic
+CMD:fad
+
+
+*-----* Policias *-----*    IsACop
+CMD:dp

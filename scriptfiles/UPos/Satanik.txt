@@ -1,0 +1,9 @@
+PosX = 1202.97351074
+PosY = -904.66302490
+PosZ = 5.37404441
+PosA = 0.00000000
+Interior = 0
+DiaLíder = 181
+Líder = Satanik
+Dinheiro = 101728
+Materiais = 51601

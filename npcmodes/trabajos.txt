@@ -1,0 +1,87 @@
+
+*-----*  Pizzero  *----*   [pEmprego] == 20
+CMD:entregarpizzas   
+CMD:recogerpizza
+CMD:recogerpizzas
+CMD:cancelarentrega
+CMD:guardarpizza
+CMD:iniciartrabajo
+CMD:venderpizza
+CMD:aceptarpizza
+
+
+
+*----* Detective *----*  [pEmprego] == 1
+CMD:ce
+CMD:procurar
+CMD:localizar 
+CMD:localizarveh	
+
+
+
+*----* ABOGADO  *----*   [pEmprego] == 2
+CMD:presos
+CMD:pp
+CMD:ppf
+
+
+*----* PUTO *----*   [pEmprego] == 3
+CMD:cojer
+
+
+*----* VENDEDOR DE DROGA *----*     [pEmprego] == 4
+CMD:venderdrogas
+CMD:ajudafabricar
+
+
+*----* CAMIONERO *----*    [pEmprego] == 11
+CMD:comprarproductos
+CMD:venderprods
+CMD:prods
+CMD:carga
+CMD:centregals
+CMD:centregalv
+CMD:centregasf
+
+
+*----* LADRON DE AUTOS *----*    [pEmprego] == 13
+CMD:robarauto
+
+
+*----* VENDEDOR DE AUTOS *----*   [pEmprego] == 12
+CMD:venderauto
+
+
+*----* MECANICO RAPIDO *----* [pEmprego] == 5
+CMD:reparar
+CMD:llenarauto
+CMD:ganchar
+CMD:bcmec
+CMD:mmision
+
+
+*----* GUARDA ESPALDAS *----* [pEmprego] == 6
+CMD:proteger
+
+
+
+*----* TRAFICANTE DE ARMAS *-----* [pEmprego] == 7
+CMD:materiales
+CMD:venderarma
+
+
+*----* AGRICULTOR *----* [pEmprego] == 21
+CMD:irrancho 
+CMD:pegarsementes
+CMD:entregarsementes
+
+
+*----* BASURERO *----* [pEmprego] == 22
+CMD:rbasura
+CMD:pbasura
+CMD:ebasura
+
+
+*----* TAXISTA *----*  [pEmprego] == 9
+CMD:corrida
+
