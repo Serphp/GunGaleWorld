@@ -6,7 +6,7 @@
 		-> Objects
 	Gamemodes
 		-> GGW.pwn 
-		-> GGW.amx Compile
+		-> GGW.amx Compiled
 	npcmodes
 	plugins
 	scriptfiles
