@@ -1,5 +1,7 @@
 # SA:MP 0.3 GUN GALE WORLD PROYECT 2016-2020
 
+![GGW](https://scontent.fpac4-1.fna.fbcdn.net/v/t39.30808-6/311981144_1013659832807719_8161555965822334424_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_ohc=q5nK38f_oOQAX9SAGTl&_nc_ht=scontent.fpac4-1.fna&oh=00_AfARIQDSBCRdil6QigCvehJvcpsSU0FreO95DVQx6Xv77g&oe=643D3D1F)
+
 El Desarrollo de **GunGale Word** se comenzo en 2014 con un servidor FR **(FreeRoam)** un modo de juego libre en donde el jugador podia hacer cualquier cosa sin restricciones con minijuegos y ranking para ser el mejor en el servidor, en el 2016 se empezo con el desarrollo de un modo de juego unico en base al desarrollo unico y profesional por parte de dos desarrolladores **Serphp & Satanik** el modo de Juego unico e innovador lo llamamos **VSR** *(50% FreeRoam / 50% RolePlay)* donde el maximo de usuarios por dia fue de **60** .
 
 # Guía de Archivos
