@@ -29,10 +29,12 @@ El **Gamemode** es el juego completo en donde se compone toda la logica del jueg
 GunGale World contaba con un sistemas de protección muy actualizado para esa epoca, no solo ingresando a la RCON PASSWORD que ofrece como contraseña la compañia SA:MP para ingresar como administrador al juego. <br/>
 Su seguridad consistia en el nombre del jugador dueño debe estar registrado y compilado en la GameMode para ingresar como administrador y contaba con el Two Factor luego de ingresar la RCON pedia una contraseña extra para poder ingresar como administrador **(GunGale2016)**
 ```
-	scriptfiles
-		-> Cuentas
-				-> Serph (Admin)
+scriptfiles
+    -> Cuentas
+        -> Serph.ini 
 ```
+El archivo **Serph.ini** archivo debe ser modificado con el nombre del dueño y también
+ser modificado desde la GameMode **GGW.pwn**
 
 | Otros archivos  | Descripción |
 |----------|----------|
